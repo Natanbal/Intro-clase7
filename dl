@@ -1,0 +1,43 @@
+[33mcommit dde079a44fb98bb6bcfabf40da3e56ff7096d1b6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 27ef1b9 b13e288
+Author: alergio <alejosmaya8@gmail.com>
+Date:   Mon Feb 27 22:09:11 2023 -0300
+
+    hago un merge de los 2 cambios
+
+[33mcommit 27ef1b9fd85f8ddc91b33673aef85a2ee4e44f9c[m
+Author: alergio <alejosmaya8@gmail.com>
+Date:   Mon Feb 27 22:05:27 2023 -0300
+
+    este es el commit de paris
+
+[33mcommit b13e288085c9566aff35af58968b3c7e093cedfc[m
+Author: Natanbal <natanbal17@gmail.com>
+Date:   Mon Feb 27 22:05:03 2023 -0300
+
+    Yo no vi contenido
+
+[33mcommit 1d60e65ccd03307d0fc0abf77e8ffb3c24ed593b[m
+Merge: ef9f688 ade95d0
+Author: Natanbal <natanbal17@gmail.com>
+Date:   Mon Feb 27 21:57:24 2023 -0300
+
+    Merge branch 'main' of https://github.com/Natanbal/Intro-clase7
+
+[33mcommit ef9f688a38f0f0e60c43a3233fa820f9f2b6095a[m
+Author: Natanbal <natanbal17@gmail.com>
+Date:   Mon Feb 27 21:54:42 2023 -0300
+
+    Escribo sobre paises.
+
+[33mcommit ade95d0634f34efc11289ce1b2940ab1b6360456[m
+Author: alergio <alejosmaya8@gmail.com>
+Date:   Mon Feb 27 21:52:52 2023 -0300
+
+    commit de ciudades!
+
+[33mcommit beaab1d89a03757f05a383329900368dbee36ebe[m
+Author: Natanbal <natanbal17@gmail.com>
+Date:   Mon Feb 27 21:42:08 2023 -0300
+
+    mi primer commit
